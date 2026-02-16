@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KiranV-bounteous/Leetcode/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/KiranV-bounteous/Leetcode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/KiranV-bounteous/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
