@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KiranV-bounteous/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/KiranV-bounteous/Leetcode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/KiranV-bounteous/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/KiranV-bounteous/Leetcode/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KiranV-bounteous/Leetcode/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/KiranV-bounteous/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
