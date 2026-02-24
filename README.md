@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KiranV-bounteous/Leetcode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/KiranV-bounteous/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/KiranV-bounteous/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/KiranV-bounteous/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KiranV-bounteous/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/KiranV-bounteous/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KiranV-bounteous/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/KiranV-bounteous/Leetcode/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KiranV-bounteous/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KiranV-bounteous/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/KiranV-bounteous/Leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/KiranV-bounteous/Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -53,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/KiranV-bounteous/Leetcode/tree/master/0162-find-peak-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KiranV-bounteous/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
