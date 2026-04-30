@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KiranV-bounteous/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/KiranV-bounteous/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KiranV-bounteous/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/KiranV-bounteous/Leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KiranV-bounteous/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KiranV-bounteous/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/KiranV-bounteous/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/KiranV-bounteous/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/KiranV-bounteous/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
