@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KiranV-bounteous/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KiranV-bounteous/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/KiranV-bounteous/Leetcode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/KiranV-bounteous/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KiranV-bounteous/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KiranV-bounteous/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KiranV-bounteous/Leetcode/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/KiranV-bounteous/Leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KiranV-bounteous/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/KiranV-bounteous/Leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
