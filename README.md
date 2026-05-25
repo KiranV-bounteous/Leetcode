@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KiranV-bounteous/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KiranV-bounteous/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KiranV-bounteous/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/KiranV-bounteous/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/KiranV-bounteous/Leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KiranV-bounteous/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KiranV-bounteous/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KiranV-bounteous/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/KiranV-bounteous/Leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KiranV-bounteous/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/KiranV-bounteous/Leetcode/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
